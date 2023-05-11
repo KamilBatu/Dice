@@ -23,4 +23,4 @@ Contributions are always welcome. If you want to contribute to this project, ple
 Fork the repository.
 Create a new branch.
 Make changes and test them.
-Submit a pull request.
+Submit a pull request.'
